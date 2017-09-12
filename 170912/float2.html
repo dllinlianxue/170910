@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div {
+            border: 1px solid red;
+        }
+        .head {
+            width: 600px;
+            height: 100px;
+        }
+        .content {
+            width: 300px;
+            height: 300px;
+            float: right;
+        }
+        div,foot::after {
+            content: "";
+            display: table;
+            clear: both;
+            /*这是另一种清除方式*/
+        }
+        .foot {
+            width: 500px;
+            height:100px;
+            /*clear:both;*/
+            /*这个是一种清除浮动的方式*/
+        }
+    </style>
+
+</head>
+<body>
+<div class="head">标题</div>
+<div class="content">内容</div>
+<div class="foot">结束</div>
+
+</body>
+</html>
