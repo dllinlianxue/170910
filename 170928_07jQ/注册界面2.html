@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-3.2.1/jquery-3.2.1.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Pacifico|Varela+Round" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Varela Round', sans-serif;
+            font-size: 2em;
+        }
+        #validateCode {
+            cursor: pointer;
+        }
+        .currentInput {
+            background-color: #cccccc;
+
+        }
+        .common {
+            background-color: white;
+        }
+    </style>
+
+</head>
+<body>
+<form>
+    <label>username:</label>
+    <input type="text" name="username">
+    <br>
+    <input type="radio" name="gender">男
+    <input type="radio" name="gender">女
+    <br>
+    <label>password:</label>
+    <input type="password" name="password">
+    <br>
+    <label>验证码:</label>
+    <input type="text" name="validate">
+    <span id="validateCode"></span>
+    <br>
+    <input type="checkbox" name="check">
+    <a href="#">同意用户协议</a>
+    <br>
+    <input type="button" value="提交">
+</form>
+<script>
+    //生成验证码的过程
+    //生成一个指定范围的随机数
+    function getRandomNumber(A,B) {
+        var num = parseInt(Math.random()*(B-A+1)+A);
+        return num;
+    }
+    //生成一个随机字母
+    function getRandomLetter() {
+        var num = getRandomNumber(65,90);
+        var letter = String.fromCharCode(num);
+        return letter;
+    }
+    //生成最终的验证码
+    function getRandomValidate(count) {
+//        if (count <= 0) {
+//            return"";
+//        }
+        count = Math.abs(count);//取绝对值
+        var str = '';
+        for (var i = 0; i < count; i++) {
+            //随机0和1 0表示字母 1表示数字
+            var type = getRandomNumber(0,1);
+            if (type === 0) {
+                str += getRandomLetter();
+            }
+            else {
+                str += getRandomNumber(0,9);
+            }
+        }
+        return str;
+    }
+
+    //把随机验证码显示到标签区域(span)
+    var content = getRandomValidate(5);
+    $('#validateCode').html(content).click(function () {
+        var newCode = getRandomValidate(5);
+        $(this).html(newCode);
+    });
+    //---------------------------------------分割线----------------------------------//
+    //用户名验证
+    $("input[name='username']").focus(function () {
+        $(this).css('backgroundColor','#cccccc');
+    }).blur(function () {
+        $(this).css('backgroundColor','white');
+        //将字符串左右的空格去掉
+        var username = $.trim($(this).val());
+        if (username === "") {
+            alert('用户名不能为空');
+        }
+    });
+    $("input[name='validate']").focus(function () {
+        $(this).css('backgroundColor','#cccccc');
+    }).blur(function () {
+        $(this).css('backgroundColor','white');
+        //将字符串左右的空格去掉
+        var validate = $.trim($(this).val());
+        if (validate === "") {
+            alert('验证码不能为空');
+        }
+        //检测输入的验证码和显示的一致
+        var temp = $('#validateCode').html();
+        var current_value = $(this).val();
+        //toUpperCase()将字符串全变成大写
+        //toLowerCase()将字符串全变成小写
+
+        if (temp !== current_value.toUpperCase()) {
+            alert('验证码输入有误');
+        }
+    });
+    //提交按钮点击事件
+    $('input[type=button]').click(function () {
+        var status = $('input[type=checkbox]').is(':checked');
+        //判断checkbox是否被勾选
+        if (!status) {
+            alert('用户协议没有勾选');
+            return;
+        }
+    });
+
+
+
+
+
+</script>
+</body>
+</html>

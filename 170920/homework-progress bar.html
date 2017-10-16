@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>progress bar</title>
+    <style>
+        #myprogress {
+            width: 100%;
+            background-color: #666666;
+        }
+        #mybar {
+            height: 30px;
+            width: 1%;
+            background-color: green;
+            text-align: center;
+            line-height: 30px;
+            color: white;
+        }
+    </style>
+
+    <style>
+        #myprogress_1 {
+            background-color: #666666;
+            width: 100%;
+        }
+        #mybar_1 {
+            width: 30%;
+            height: 30px;
+            background-color: green;
+            text-align: center;
+            line-height: 30px;
+            color: white;
+        }
+    </style>
+
+
+    <style>
+        #myprogress_2 {
+            background-color: #666666;
+            width: 100%;
+        }
+        #mybar_2 {
+            width: 39%;
+            height: 30px;
+            background-color: #33b5e5;
+            text-align: center;
+            line-height: 30px;
+            color: white;
+        }
+    </style>
+
+
+    <style>
+        #myprogress_3 {
+            background-color: #666666;
+            width: 100%;
+        }
+        #mybar_3 {
+            background-color: #33b5e5;
+            width: 30%;
+            height: 30px;
+            text-align: center;
+            line-height: 30px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+<h1>progress bar</h1>
+<div id="myprogress">
+    <div id="mybar">1%</div>
+</div>
+<br>
+<button onclick="move()">快进</button>
+<script>
+    function move() {
+        var elem =document.getElementById('mybar');
+        var width =5;
+        var id =setInterval(frame,10);
+        function frame() {
+            if (width>=100) {
+                clearInterval(id)
+            }
+            else {
+                width++;
+                elem.style.width=width+"%"
+            }
+
+        }
+
+    }
+</script>
+
+
+
+<h1>progress bar</h1>
+<div id="myprogress_1">
+    <div id="mybar_1">30%</div>
+</div>
+<br>
+<button onclick="move_1()">快进</button>
+<script>
+    function move_1() {
+        var elem = document.getElementById('mybar_1');
+        var width =3;
+        var id =setInterval(frame_1,10);
+        function frame_1() {
+            if (width>=100) {
+                clearInterval(id);
+            }
+            else {
+                width++;
+                elem.style.width=width+"%"
+            }
+
+        }
+
+    }
+</script>
+
+
+
+<h2>progress bar</h2>
+<div id="myprogress_2">
+    <div id="mybar_2">39%</div>
+</div>
+<br>
+<button onclick="move_2()">快进</button>
+<script>
+    function move_2() {
+        var elem = document.getElementById("mybar_2");
+        var width =1;
+        var id =setInterval(frame_2,10);
+        function frame_2() {
+            if (width>=100) {
+                clearInterval(id);
+            }
+            else {
+               width++;
+               elem.style.width=width+"%"
+            }
+
+
+        }
+
+    }
+</script>
+
+
+<h2>progress bar</h2>
+<div id="myprogress_3">
+    <div id="mybar_3">40%</div>
+</div>
+<br>
+<button onclick="move_3()">快进</button>
+<script>
+    function move_3() {
+    var elem =document.getElementById("mybar_3");
+    var width =1;
+    var id =setInterval(frame_3,10);
+    function frame_3() {
+        if (width>=100) {
+            clearInterval(id)
+        }
+        else {
+            width++;
+            elem.style.width=width+"%";
+        }
+
+    }
+
+
+
+    }
+</script>
+</body>
+</html>

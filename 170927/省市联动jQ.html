@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-3.2.1.js"></script>
+</head>
+<body>
+<select name="province" id="select1">
+    <!--<option value="请选择你的省份">请选择你的省份</option>    -->
+    <!--<option value="1">北京</option>-->
+    <!--<option value="2">辽宁</option>-->
+    <!--<option value="3">吉林</option>-->
+    <!--<option value="4">黑龙江</option>-->
+</select>
+<select name="province" id="select2">
+    <!--<option value="请选择你的省份">请选择你的城市</option>-->
+
+</select>
+<script>
+    //伪造数据
+    var data = [{
+        name:'北京',
+        city:['朝阳区','海定区','清河区','东城区','丰台区','西城区']
+    },{
+        name:'辽宁',
+        city:['沈阳','大连','鞍山','抚顺','辽阳','营口','丹东','锦州']
+    },{
+        name:'吉林',
+        city:['长春','吉林','白城','松原','辽源','公主岭']
+    },{
+        name:'黑龙江',
+        city:['哈尔滨','齐齐哈尔','大庆','绥化','佳木斯','鸡西']
+    }];
+    var pro_html = '';//存放select内部的html语句,也就是option
+    for (var i = 0; i < data.length; i++) {
+        var province = data[i];
+        pro_html += "<option value="+ i +">"+ province.name +"</option>"
+    }
+    $('#select1').html(pro_html).change(function () {
+//        find("option:selected").attr("bianhao"):
+        var num = $(this).find("option:selected").attr('value');
+        var current_data = data[parseInt(num)];
+        var city = current_data.city;
+        var city_html = "";
+        for (var i = 0; i < city.length; i++) {
+            city_html += "<option>"+ city[i] +"</option>";
+        }
+        $('#select2').html(city_html);
+    });
+
+</script>
+
+
+</body>
+</html>

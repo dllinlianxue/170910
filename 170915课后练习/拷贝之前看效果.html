@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .out {
+            border: 1px solid blue;
+            /*overflow: auto;*/
+        }
+        div.out::after {
+            content: '';
+            display: table;
+            clear: both;
+        }
+        .footer {
+            border: 1px solid red;
+            /*clear: both;*/
+        }
+        img {
+            float: right;
+        }
+        .in {
+            clear: both;
+        }
+    </style>
+
+</head>
+<body>
+<div class="out">
+    <img src="../.idea/image/1.png/人物背景图.jpg">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum...
+
+
+    <div class="in"></div>
+</div>
+
+<div class="footer">Footer</div>
+
+</body>
+</html>

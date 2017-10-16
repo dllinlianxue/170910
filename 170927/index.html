@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="common.js"></script>
+
+    <style type="text/css">
+        .out {
+            position: absolute;
+            width:400px;
+            height: 400px;
+            /*background-color: yellow;*/
+            border: 1px solid yellow;
+        }
+    </style>
+</head>
+<body>
+<div class="out"></div>
+<script>
+    var out = document.getElementsByClassName('out')[0];
+
+    function changebackgroundColor() {
+        this.style.backgroundColor = 'red';
+    }
+    EventObject.Eventhandle('click',changebackgroundColor,out);
+
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-3.2.1.js"></script>
+    <style>
+        .common {
+            position: relative;
+            width: 400px;
+            height: 400px;
+            background-color: salmon;
+        }
+    </style>
+</head>
+<body>
+<!--<div class="common">-->
+
+<!--</div>-->
+<!--<form action="">-->
+    <!--<label>用户名:</label>-->
+    <!--<input type="text" name="username">-->
+    <!--<br>-->
+    <!--<label>密码:</label>-->
+    <!--<input type="password" name="password">-->
+<!--</form>-->
+<button class="common">点击一下</button>
+<p>aaaaaaaaaaaa</p>
+<script>
+//    $(document).ready(function () {
+//      $('.common').hover(function () {
+//          $(this).css({
+//              backgroundColor:'black'
+//          });
+//      },function () {
+//          $(this).css({
+//              backgrounColor:'salmon'
+//          });
+//      });
+//
+//    });
+
+$('input').focus(function () {
+   $(this).css({
+       backgroundColor:'red'
+   });
+}).blur(function () {
+  $(this).css({
+      backgroundColor:'yellow'
+  });
+})
+
+//$('input').blur(function () {
+//    $(this).css({
+//        backgroundColor:'#ccc'
+//    });
+//});
+
+//    $('button').on('click',function () {
+//        alert('你好')
+//    });
+$('button').on({
+   mouseenter:function () {
+      $(this).css({
+          color:'red'
+      }) ;
+   },
+    mouseleave:function () {
+        $(this).css({
+           color:'yellow'
+        });
+    },
+    click:function () {
+       //融合了hide和show
+        $('p').toggle();
+        //融合了fadeout和fadein
+        $('p').fadeToggle();
+        $('p').fadeTo('show',0,function() {
+             alert('彻底消失')
+        })
+
+     }
+});
+//取消事件
+//$('button').off('click');
+</script>
+</body>
+</html>

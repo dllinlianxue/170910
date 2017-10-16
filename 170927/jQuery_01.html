@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-3.2.1.js"></script>
+    <style>
+        #myDiv {
+            position: absolute;
+            width:400px;
+            height: 400px;
+            background-color: brown;
+            /*border: 1px solid yellow;*/
+        }
+        .p1 {
+            font-size: 20px;
+            color: yellow;
+        }
+        .p2 {
+            background-color: #33b5e5;
+        }
+    </style>
+</head>
+<body>
+<div id="myDiv">
+    <p class="p1">这是一段p标签</p>
+</div>
+<p class="p1 p2">这是一段p标签</p>
+
+
+<script>
+    //angular.js
+    //vue.js
+    //node.js后台
+    $('#myDiv').hide();
+//    $('.p1').css({
+//        border:'1px solid red'
+//    });
+    setTimeout(function () {
+        $('#myDiv').show();
+    },3000);
+
+
+//    setTimeout(function () {
+//        $('div').hide()
+//    },3000);
+    window.onload = function () {
+        //界面资源全都加载完毕,避免js操作元素失败
+        //比如请求一个界面的图片过大,需要一些加载时间
+    };
+
+
+
+//jQuery版本
+    $(document).ready(function () {
+        //在这执行常规代码
+    });
+    //简化版
+    $(function () {
+
+    });
+</script>
+</body>
+</html>

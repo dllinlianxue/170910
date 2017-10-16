@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../../W04D2(171010)/js/jquery-3.2.1/jquery-3.2.1.js"></script>
+</head>
+<body>
+<form>
+    <label for="username">username:</label>
+    <input type="text" id="username" name="username">
+    <br>
+    <label for="password">password:</label>
+    <input type="password" id="password" name="password">
+    <br>
+    <button type="button" onclick="login()">登陆</button>
+</form>
+<script>
+    function login() {
+       var username = $('input[name="username"]').val();
+       var password = $('input[name="password"]').val();
+
+      var url = 'login.php';
+      var data = {
+          'username': username,
+          'password': password
+      };
+         $.post(url,data,function (result) {
+             if (result.status === 0) {
+                 alert(result.msg);
+             } else if (result.status === 1) {
+                 alert(result.msg);
+                 location.href = 'index.html'
+             }
+         },'json');
+    }
+</script>
+</body>
+</html>
+
+

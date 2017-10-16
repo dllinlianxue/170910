@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a32fc988-fd99-4f14-a7bd-990cb504bd38" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/image/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/image/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/image/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/image/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/bird.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/动漫.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/动漫2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/动漫3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/动漫4.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/小对号.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/星号.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/红包.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170918/simply1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170919/simpay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170919/simply.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170919/simply2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170919/制作.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170919/导航条.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170919/课后练习.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/jquery-3.2.1/jquery-3.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/jquery-3.2.1/jquery-3.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/jquery-3.2.1/jquery插件库.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/jquery-3.2.1/www.jq22.com.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/console.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/homeword-remove.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/homeword-setTimeout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/homework-alets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/homework-progress bar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/progress.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/登陆页面.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/jquery-3.2.1/jquery-3.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/jquery-3.2.1/jquery-3.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/jquery-3.2.1/jquery插件库.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/jquery-3.2.1/www.jq22.com.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/打字.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/课堂作业.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/课堂练习.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/随机打字.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/随机打字游戏.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/霓虹灯.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/霓虹灯2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/霓虹灯3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/霓虹灯4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/jquery-3.2.1/jquery-3.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/jquery-3.2.1/jquery-3.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/jquery-3.2.1/jquery插件库.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/jquery-3.2.1/www.jq22.com.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/createLetter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/offsettop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/onkeydown..html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/onkeydown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/the to do list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/创建div createElement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/打字游戏.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/打字练习.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170925/1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170925/to du list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/EventHandle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/jquery-3.2.1/jquery-3.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/jquery-3.2.1/jquery-3.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/jquery-3.2.1/jquery插件库.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/jquery-3.2.1/www.jq22.com.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/js html.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/js222.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/css/swiper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/css/swiper.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/maps/swiper.jquery.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/maps/swiper.jquery.umd.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/maps/swiper.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/swiper.jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/swiper.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/swiper.jquery.umd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/swiper.jquery.umd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/swiper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/swiper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/点击事件.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/轮播图.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jQuery_01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jQuery_02选择器.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jQuery_03_事件.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jQuery_get_set.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jQuery_动画_04.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jquery-3.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jquery-3.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/js-06.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/事件冒泡和事件捕获.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/省市联动jQ.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/jQuery_01_操作.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/swiper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/注册界面.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/滑动效果.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index..html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170912/float1.html" afterPath="$PROJECT_DIR$/170912/float1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170913homework/1.2.3..html" afterPath="$PROJECT_DIR$/170913homework/1.2.3..html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index..html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index..html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index..html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="35" />
+    <option name="y" value="23" />
+    <option name="width" value="1405" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="170910" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="170910" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a32fc988-fd99-4f14-a7bd-990cb504bd38" name="Default" comment="" />
+      <created>1506650370223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506650370223</updated>
+      <workItem from="1506650372638" duration="257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="257000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="35" y="23" width="1405" height="877" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24944974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24944974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index..html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

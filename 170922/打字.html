@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    setInterval(function () {
+        createLetter();
+    },500);
+    function createLetter() {
+        var element_div = document.createElement('div');
+        element_div.style.width = 50 + 'px';
+        element_div.style.height = 50 + 'px';
+        element_div.style.fontSize = 50 + 'px';
+        var num = Math.floor(Math.random()*(90-65+1)+65);
+        var ele_num = String.fromCharCode(num);
+        element_div.innerHTML = ele_num;
+        element_div.style.position = 'absolute';
+        element_div.style.top = -5 + 'px';
+        var left_num = Math.floor(Math.random()*(document.body.clientWidth));
+        element_div.style.left = left_num + 'px';
+        document.body.ppendChild(element_div);
+
+    }
+
+</script>
+</body>
+</html>

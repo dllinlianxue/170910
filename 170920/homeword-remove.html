@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .mystyle {
+            background-color: red;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            box-sizing: border-box;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+<button onclick="myfunction">点击</button>
+<div class="mystyle" id="mydiv">
+    内容
+</div>
+<script>
+    function myfunction() {
+        var elem = document.getElementById('mydiv');
+        elem.className = elem.className.replace(/\bmystyle\b/g,"");
+        
+    }
+</script>
+</body>
+</html>

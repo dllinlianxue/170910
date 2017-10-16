@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        html,body {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+<script>
+    setInterval(function () {
+        createLetter()
+    },1000);
+    function createLetter() {
+        var ele_div = document.createElement('div');
+        ele_div.style.width = 50 + 'px';
+        ele_div.style.height = 50 + 'px';
+        ele_div.style.fontSize = 50 + 'px';
+        var num = Math.floor(Math.random()*(90-65+1)+65);
+        var letter = String.fromCharCode(num);
+        ele_div.innerHTML = letter;
+        ele_div.style.position = 'absolute';
+        ele_div.style.top = -5 + 'px';
+        var left_num = Math.floor(Math.random()*document.body.clientWidth);
+        ele_div.style.left = left_num + 'px';
+        document.body.appendChild(ele_div);
+    }
+
+    setInterval(function () {
+        move()
+    },100);
+    function move() {
+        var arr_div = document.getElementsByTagName('div');
+        for (var i = 0; i < arr_div.length; i++) {
+            var ele_div = arr_div[i];
+            ele_div.style.top = ele_div.offsetTop +15 +'px';
+            if (ele_div.offsetTop>document.body.clientHeight) {
+                document.body.removeChild(ele_div);
+            }
+        }
+    }
+
+    document.onkeydown = function (key) {
+        var lerrer_key = String.fromCharCode(key.keyCode);
+        var arr_div = document.getElementsByTagName('div');
+        for (var i = 0; i < arr_div.length; i++) {
+            var div = arr_div[i];
+            if (div.innerHTML === lerrer_key) {
+                document.body.removeChild(div);
+            }
+        }
+    }
+
+
+
+
+</script>
+
+
+
+
+</body>
+</html>

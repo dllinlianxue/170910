@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #div1 {
+            position: absolute;
+            width: 300px;
+            height: 200px;
+            background-color: green;
+        }
+        .oldclass {
+            border: 5px solid red;
+        }
+        .newclass {
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+<div id="div1" class="oldclass newclass">
+
+</div>
+<script>
+    var divElement = document.getElementById('div1');
+//    divElement.classList.add('newclass');
+    //保留原来的类
+//    divElement.className('newclass');
+    //清除一个原来的类
+    divElement.classList.remove('oldclass');
+
+</script>
+</body>
+</html>

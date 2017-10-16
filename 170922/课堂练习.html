@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+//如何访问数组:下标index
+//索引数组
+//遍历数组(访问所有数组)
+<script>
+    //定义数组
+    var names_arr = ['tom','list','zhangsan'];
+    //访问(读写)某一个数组元素
+    var name = names_arr[1];
+    console.log(name);
+
+    //遍历数组 for (变量初始化,循环的条件,一个个循环)
+    for (var i = 0; i < names_arr.length; i++) {
+        console.log(names_arr[i]);
+        break;//跳出当前循环
+    }
+    //遍历数组,判断是否有'tom'
+    for (var j = 0; j < names_arr.length; j++){
+        if (names_arr[j] === 'Tom') {
+            console.log('有Tom');
+            break;
+//        } else {
+//            console.log('没有Tom');
+        }
+        console.log('没有Tom');
+    }
+    //while和for 循环的区别
+    while (条件) {
+
+    }
+    var k = 0;
+    while (k < names_arr.length) {
+        console.log(names_arr[k]);
+        k++;
+    }
+</script>
+
+
+</body>
+</html>

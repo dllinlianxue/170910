@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .out {
+            position: relative;
+            width: 50%;
+        }
+        .image {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+        .overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: #e4393c;
+            width: 0;
+            height: 100%;
+            overflow: hidden;
+            transition: .5s ease;
+        }
+        .out:hover .overlay {
+            width: 100%;
+        }
+        .text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform:translate(-50%,-50%);
+            color: white;
+            white-space: nowrap;
+            font-size: 20px;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+<h1>图片侧拉覆盖</h1>
+<p>overlay</p>
+<div class="out">
+    <img src="../.idea/image/1.png/人物背景图.jpg" alt="" class="image">
+    <div class="overlay">
+        <div class="text">hello work</div>
+    </div>
+</div>
+</body>
+</html>

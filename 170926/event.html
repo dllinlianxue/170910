@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+
+        .out {
+            background-color: yellow;
+            width: 300px;
+            height: 300px;
+
+        }
+        .on {
+            background-color: red;
+            width: 200px;
+            height: 200px;
+        }
+        .inbox {
+            background-color: blue;
+            width: 100px;
+            height: 100px;
+        }
+    </style>
+
+</head>
+<body>
+<div class="out">
+    <div class="on">
+        <div class="inbox"></div>
+    </div>
+</div>
+<script>
+   // 3个div添加点击事件
+//    var out = document.getElementsByClassName('out')[0];
+//    var on = document.getElementsByClassName('on')[0];
+//    var inbox = document.getElementsByClassName('inbox')[0];
+//    out.onclick = function (ev) {
+//        //log输出事件对象,查看对象包含哪些信息
+////        console.log('out');
+////        //事件目标
+////        console.log(ev);
+////        console.log(this);
+//    };
+//    on.onclick = function () {
+////        console.log('on');
+//    };
+//
+//    inbox.onclick = function () {
+////        console.log('inbox');
+////    };
+
+
+    var out = document.getElementsByClassName('out')[0];
+    var on = document.getElementsByClassName('on')[0];
+    var inbox = document.getElementsByClassName('inbox')[0];
+    out.addEventListener('click',function (ev) {
+//        console.log('out');
+//        console.log(ev);
+//        console.log(ev.target);
+//        console.log(ev.currentTarget)
+        console.log(this);
+
+    },true);
+//    on.addEventListener('click',function (ev) {
+//        console.log('on');
+//    },true);
+//    inbox.addEventListener('click',function (ev) {
+//        console.log('inbox');
+//    },true);
+
+</script>
+</body>
+</html>

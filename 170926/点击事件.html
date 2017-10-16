@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .out {
+            width:100px;
+            height: 100px;
+            border: 1px solid;
+        }
+    </style>
+</head>
+<body>
+<div class="out"></div>
+<script>
+    var out = document.getElementsByClassName('out')[0];
+    
+//    out.onclick = function (ev) {
+//        this.style.backgroundColor = 'red';
+//    };
+//    out.onclick = function () {
+//        this.style.borderColor = 'blue';
+//    };
+    //对于同一个事件只执行最后一个
+    out.addEventListener('click',changebackgroundColor, false);
+    function changebackgroundColor() {
+        this.style.backgroundColor = 'red';
+    }
+    out.removeEventListener('click',changebackgroundColor,false);
+
+//    out.removeEventListener('click',function () {
+//        console.log('dete');
+//    },false);
+</script>
+</body>
+</html>

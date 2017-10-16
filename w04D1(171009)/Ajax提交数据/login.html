@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../../W04D2(171010)/js/jquery-3.2.1/jquery-3.2.1.js"></script>
+</head>
+<body>
+<form>
+    <label for="username">username:</label>
+    <input type="text" id="username" name="username">
+    <br>
+    <label for="password">password:</label>
+    <input type="password" id="password" name="password">
+    <br>
+    <button type="button" onclick="login()">登录</button>
+</form>
+
+<!--javaScript前段脚本-->
+<script>
+    //核心业务逻辑:是将数据通过Ajax传给后台
+    function login() {
+        var username = $('input[name="username"]').val();
+        var password = $('input[name="password"]').val();
+
+        var url = 'login.php';
+        var data = {
+            'username':username,
+            'password':password
+        };
+
+
+        //JQuery的Ajax使用
+        $.post(url,data,function (result) {
+//        $是JQuery的符号
+//            由于第四个参数指定了'json'格式,后台也发送json格式,所以result参数是一个对象
+            if (result.status === 0 ) {
+                alert(result.msg)
+            } else  if (result.status === 1) {
+                alert(result.msg);
+                location.href = 'index.html';
+
+            }
+        },'json');
+
+
+
+    }
+
+</script>
+</body>
+</html>

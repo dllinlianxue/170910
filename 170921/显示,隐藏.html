@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #mydiv {
+            position: absolute;
+            width: 400px;
+            height: 100px;
+            background-color: brown;
+            top: 50px;
+            left: 20px;
+        }
+    </style>
+</head>
+<body>
+<button id="btn">关闭</button>
+<div id="mydiv"></div>
+
+<script>
+    var btnElement = document.getElementById('btn');
+    var divElement = document.getElementById('mydiv');
+    //匿名函数(方法/行为)
+    btnElement.onclick = function () {
+        //判断此时div的display状态
+        if(divElement.style.display == 'none') {
+            display.style.display = 'block';
+            btnElement.innerHTML = '关闭';
+        }
+        else {
+            display.style.display = 'none';
+            btnElement.innerHTML = '打开';
+        }
+
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form>
+    <label>姓名</label>
+    <input type="text" name="use" id="use">
+    <br>
+    <label>密码</label>
+    <input type="password" name="password" id="password">
+    <br>
+    <button class="btn" type="button" onclick="cache()">登录</button>
+</form>
+<script>
+     function cache() {
+
+         var newuse = document.getElementById('use').value;
+         var newpassword = document.getElementById('password').value;
+         if (newuse==='') {
+             alert('用户名不能为空')
+         }
+
+         if (newuse ==='tom')
+             if (newpassword ==='123456')
+             {
+                 alert('欢迎');}
+             else {
+             alert('密码不正确');
+         }
+         else {
+             alert('用户名不正确');
+         }
+     }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="js.js"></script>
+    <script src="EventHandle.js"></script>
+    <style>
+        .out {
+            width: 100px;
+            height: 100px;
+            border: 1px solid blue;
+        }
+        #inbox {
+            width: 100px;
+            height: 100px;
+            border: 1px solid;
+        }
+    </style>
+</head>
+<body>
+<div class="out"></div>
+<div id="inbox"></div>
+<script>
+    var ele = document.getElementsByClassName('out')[0];
+    Obj.createElement('out','hello',ele);
+
+    var div = document.getElementById('inbox');
+    Dl.change('inbox','red',element);
+</script>
+</body>
+</html>

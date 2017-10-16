@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<script>
+    //函数关键字:function
+    //分类:有名字的函数和匿名函数
+    //函数结构:function name () {
+                    // 代码区域
+               }
+    //命名可有数字\字母\下划线\不能数字开头
+    //见名之意
+    //参数:在小括号里
+    //第一种函数:没有参数,没有返回值(有执行的过程)
+    //调用函数:buywater()
+//    function buywater() {
+//    }
+    //第二种函数:有参数,没有返回值
+    function saystring(str) {
+    //str的作用域(使用范围)只能是在函数里用,是形式上的参数,不是实体的参数
+        console.log(str);
+        //打印出来
+    }
+     //字符串使用单引号或双引号都可以
+    saystring('你好,春秋战国');
+    saystring('你好,太阳');
+    saystring('你好,火星');
+    saystring('你好,月球');
+    //第三种:有参数,有返回值(参数不分数量,用逗号分开)
+    //sum求和,avg平均值
+    function sum(num1,num2) {
+        var result = num1 + num2;
+        //将结果返回到调用的位置
+        return result;
+    }
+    var new = sum(12,34);
+    //第四种:没有参数,又返回值
+    function getRandomNumber() {
+        //随机数公式:
+        //Math.random *(B-A+1)+A;
+        //[A,B];
+        var num =parseInt(Math.random()*(10000-1000+1)+1000);
+        var num = Math.random() *100;
+        return num;
+    }
+    var random = getRandomNumber();
+    console.log(random);
+
+</script>
+
+</body>
+</html>

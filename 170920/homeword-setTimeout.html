@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>setTimeout</title>
+    <link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.css/bootstrap.min.csscss">
+</head>
+<body>
+<div id="divl" class="fa"></div>
+<script>
+    function chargebattery () {
+        var a;
+        a = document.getElementById('divl');
+        a.innerHTML = "&#xf244;";
+        setTimeout(function () {
+            a.innerHTML = "#&xf243;";
+            },1000);
+        setTimeout(function () {
+            a.innerHTML = "#&xf242;";
+            },2000);
+        setTimeout(function () {
+            a.innerHTML = "#&xf241;";
+            },3000);
+    }
+    chargebattery();
+    setInterval(chargebattery,4000);
+</script>
+</body>
+</html>

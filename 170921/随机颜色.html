@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body id="mybody">
+<script>
+    var bodyElement = document.getElementById('mybody');
+    function getRandomNumber(A,B) {
+        var num = parseInt(Math.random() * (B-A+1)+A);
+        return num;
+    }
+    //获取随机颜色的函数 rgb(r,g,b);[0,255]
+    function getRandomColor() {
+        var r = getRandomNumber(0,255);
+        var g = getRandomNumber(0,255);
+        var b = getRandomNumber(0,255);
+        return 'rgb('+ r +','+ g +','+ b +')';
+    }
+    function changecolor() {
+        bodyElement.style.backgroundColor = getRandomColor();
+    }
+    var timer =setInterval(changecolor,100);
+
+
+
+</script>
+
+
+
+</body>
+</html>

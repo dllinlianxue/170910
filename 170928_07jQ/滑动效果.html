@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-3.2.1/jquery-3.2.1.js"></script>
+    <style>
+        #outer {
+            position: absolute;
+            width: 400px;
+            height: 40px;
+            background-color: #ccc;
+            top: 50px;
+            left: 50px;
+        }
+        #inner {
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            background-color: darkblue;
+            top: 0;
+            left: 0;
+        }
+    </style>
+</head>
+<body>
+<div id="outer">
+   <div id="inner"></div>
+
+</div>
+
+<script>
+    $(document).ready(function () {
+//        window.event.X
+//        window.event.Y
+//     $(document).mousemove(function () {
+
+//     });
+        //获取outer的div的左边的距离数值
+        var a = $('#outer').offset().left;
+        var max = $('#outer').width()-$('#inner').width();
+        //为inner的div添加mousedown事件
+        $('#inner').mousedown(function () {
+           //为document绑定mousemove事件,为了获取鼠标移动时的坐标
+            var little_dis = window.event.x-a;
+            //获取差值
+            $(document).on('mousemove',function () {
+                var newx = window.event.x;
+                var newleft = newx - a - little_dis;
+                if (newleft < 0 ) {
+                    newleft = 0;
+                }
+                if (newleft > 0 ) {
+                    newleft = max ;
+                }
+                if (('#inner').position().left === max) {
+        $('#outer').css({
+                        backgroundColor: 'green'
+                    });
+                    $(document).off('mousemove')
+                }
+                //修改inner的div的left值
+                $('#inner').css({
+                    left:newleft +'px'
+                });
+            });
+        });
+        $(document).mouseup(function () {
+            if ($('#inner').position().left < max) {
+                $('#inner').animate({left:'0'});
+            }
+            $(document).off('mousemove');
+        });
+
+    });
+</script>
+</body>
+</html>

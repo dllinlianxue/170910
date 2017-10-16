@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+div.header {
+    background-color: #333333;
+    color: white;
+    font-size: 12px;
+    height: 26px;
+    line-height: 26px;
+}
+div.header a {
+    text-align: center;
+}
+div.header a.header-one {
+    padding-left: 118px;
+}
+
+div.header a.header-two {
+    padding-left: 24px;
+
+}
+div.header a.header-three {
+    padding-left: 860px;
+    padding-right: 7px;
+    color: white;
+}
+div.header a.header-four {
+    padding-right: 127px;
+    padding-left: 7px;
+    color: white;
+}
+div.header-image {
+    padding-top: 5px;
+}
+div.header-image .image {
+    padding-left: 120px;
+
+}
+div.header-image b {
+    padding-left: 20px;
+    color: #a7a7a7;
+    text-align: center;
+}
+b {
+    text-align: center;
+}
+.header-search {
+    float:right;
+    padding-right: 120px;
+}
+input[type=text] {
+    width: 100%;
+    border: 1px solid red;
+    line-height: 35px;
+    float: left;
+}
+
+.header-name {
+    position: relative;
+    width: 1437px;
+    border: 1px solid red;
+    background-color: red;
+    height: 37px;
+    clear: both;
+}
+.header-name ul {
+    background-color: red;
+    color: white;
+    list-style-type: none;
+    padding-left: 24px;
+    padding-right: 820px;
+}
+.header-name li {
+    float: left;
+}
+.header-name li a {
+    display: block;
+    background-color: red;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 8px 24px;
+}
+.header-name li a:hover:not(.active) {
+    background-color:brown;
+    color: white;
+}
+.header-name li a.active {
+    background-color: brown;
+}
+div.container-left {
+    margin: 20px;
+    width: 30%;
+}
+div.container-left li {
+    overflow: hidden;
+    white-space: normal;
+    width: 246px;
+    text-decoration: none;
+    border: 1px solid #a7a7a7;
+}
+div.container-left li a {
+    text-decoration: none;
+    color: #a7a7a7;
+}
+div.container-right {
+    width: 70%;
+    margin: 20px;
+    position: absolute;
+    top: 30%;
+    left: 55%;
+    transform: translate(-50%,-50%);
+}
+div.container {
+    position: relative;
+}
+div.container-up {
+    position: absolute;
+    top: 70%;
+    left: 47%;
+    bottom: 40%;
+    transform: translate(-50%,-50%);
+}
+div.container-up li {
+    display: inline-block;
+    float: left;
+    padding: 0 5px;
+}
+div.containerl-up li a {
+    text-decoration: none;
+
+}
+div.container-up li a:not(.active) {
+    color: #a7a7a7;
+}
+div.container-up li a.active {
+    margin: 0;
+    padding-right: 60px;
+    color: #333333;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

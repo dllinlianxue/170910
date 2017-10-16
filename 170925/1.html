@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="out">
+
+        <h2>to do list</h2>
+        <input type="text" placeholder="title" class="myinput">
+        <span onclick="myspan">add</span>
+
+</div>
+<div>
+    <ul id="on">
+        <li>1</li>
+        <li class="in">1d</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+    </ul>
+</div>
+<script>
+    var arr_li = document.getElementsByTagName('li');
+    for (var i = 0; i < arr_li.length; i++) {
+        var span = document.createElement('span');
+        var txt = document.createTextNode('\007u');
+        span.className = 'close';
+        span.appendChild(txt);
+        arr_li[i].appendChild(span);
+    }
+    var ele_li = document.getElementsByClassName('li');
+    for (var i = 0; i < ele_li.length; i++) {
+        close.onclick = function () {
+            var li = this.parentElement;
+            li.appendChild('');
+        }
+    }
+    var arr_ul = document.querySelector('ul');
+    arr_li.addEventListener('click',function (ev) {
+        if (ev.target.tagName === 'ul');
+            ev.target.className.toggle('checked');
+            else arr_li.style.display = 'none';
+    },false)
+
+
+</script>
+
+</body>
+</html>

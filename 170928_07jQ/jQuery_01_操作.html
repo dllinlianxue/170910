@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-3.2.1/jquery-3.2.1.js"></script>
+    <style>
+        .mydiv {
+            position: absolute;
+            width: 200px;
+            height: 200px;
+            top: 100px;
+            left: 100px;
+            background-color: salmon;
+        }
+    </style>
+</head>
+<body>
+<div class="mydiv">
+
+</div>
+
+<script>
+    //div旋转
+    var deg = 0;
+    var speed = 1;
+    setInterval(function () {
+        deg += speed;
+//        console.log(deg);
+        $('.mydiv').css({
+           transform:'rotateY('+ deg +'deg)'
+        });
+    },100);
+
+
+</script>
+
+</body>
+</html>

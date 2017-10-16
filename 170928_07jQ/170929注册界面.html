@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-3.2.1/jquery-3.2.1.js"></script>
+    <link rel="stylesheet" href="layui/css/layui.css">
+    <link rel="stylesheet" href="layui/layui.all.js">
+    <script src="swiper/css/swiper.min.css"></script>
+    <script src="swiper/js/swiper.jquery.min.js"></script>
+    <style>
+        body {
+            font-size: 20px;
+            margin: 50px;
+        }
+        #btn {
+            width: 80px;
+        }
+        .text1 {
+            font-size: 3px;
+            color: grey;
+        }
+        .text2 {
+            font-size: 3px;
+            color: grey;
+        }
+        .text3 {
+            font-size: 3px;
+            color: grey;
+        }
+        #validateCode {
+            border: 1px double;
+        }
+    </style>
+</head>
+<body>
+<table>
+    <tr>
+        <td>用户名:</td>
+        <td><input type="text" name="username" id="username">
+        <p class="text1">6~18个字符可使用字母、数字</p>
+        <td>@</td>
+        </td>
+        <td>
+            <select name="province" id="select1">
+                <option value="1">126.com</option>
+                <option value="2">136.com</option>
+                <option value="3">yeah.cn</option>
+            </select>
+        </td>
+
+    </tr>
+    <tr>
+        <td>密码:</td>
+        <td><input type="password" name="password" id="password">
+            <p class="text2">6~16个字符，区分大小写</p>
+        </td>
+    </tr>
+    <tr>
+        <td>验证密码:</td>
+        <td><input type="password" name="onpassword" id="onpassword">
+            <p class="text3">请再次填写密码</p>
+        </td>
+    </tr>
+    <tr>
+        <td>性别:</td>
+        <td>
+            <input type="radio" name="gender">男
+            <input type="radio" name="gender">女
+        </td>
+    </tr>
+    <tr>
+        <td>验证码:</td>
+        <td><input type="text" id="validate">
+            <span id="validateCode"></span>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><input type="checkbox" name="check">
+        <a href="#">同意用户协议</a>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><input type="submit" id="btn"></td>
+    </tr>
+</table>
+<script>
+    $(document).ready(function () {
+        $('#username').focus(function () {
+        $(this).css({
+            backgroundColor: '#ccc'
+        }).blur(function () {
+            $(this).css('backgroundColor','white')
+        });
+//        var username = $.trim($(this).val());
+//        if (username === '') {
+//            alert('用户名不能为空')
+//        }
+    });
+        $('#password').focus(function () {
+            $(this).css({
+                backgroundColor: '#ccc'
+            }).blur(function () {
+                $(this).css('backgroundColor','white')
+            });
+        });
+        $('#onpassword').focus(function () {
+            $(this).css({
+                backgroundColor: '#ccc'
+            }).blur(function () {
+                $(this).css('backgroundColor', 'white')
+            });
+        });
+    });
+    function getRandomNumber(A,B) {
+        var num = parseInt(Math.random()*(B-A+1)+A);
+        return num;
+    }
+    function getRandomLetter() {
+        var num = getRandomNumber(65,90);
+        var letter = String.fromCharCode(num);
+        return letter;
+    }
+    function getRandomValidate(count) {
+        count = Math.abs(count);
+        var str = '';
+        for (var i = 0; i < count; i++) {
+            var type = getRandomNumber(0, 1);
+            if (type === 0) {
+                str += getRandomLetter();
+            } else {
+                str += getRandomNumber(0, 9);
+            }
+        }
+            return str;
+    }
+    var content = getRandomValidate(4);
+    $('#validateCode').html(content).click(function () {
+        var newCode = getRandomValidate(4);
+        $(this).html(newCode);
+    });
+
+
+</script>
+
+</body>
+</html>

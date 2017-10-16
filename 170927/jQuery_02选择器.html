@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-3.2.1.js"></script>
+    <style>
+        .p1 {
+            color: orange;
+            font-size: 20px;
+        }
+        .p2 {
+            border: 2px double salmon;
+
+        }
+    </style>
+</head>
+<body>
+<button>点击一下</button>
+<p class="p1 p2">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+<p class="p1">bbbbbbbbbbbbbbbbbbbbbbb</p>
+<p class="p2">ccccccccccccccccccccccccccccccccc</p>
+<ul>
+    <li>第一名</li>
+    <li>第二名</li>
+    <li>第三名</li>
+
+</ul>
+
+<script>
+
+//    $(function () {
+//        $('button').click(function () {
+//            $('p').hide()
+//        });
+//    });
+//
+//    $('.p1.p2').css({
+//       color:'red'
+//    });
+//$('*').css({
+//    border:'1px solid blue'
+//});
+
+$('button').mouseover(function () {
+   $(this).css({
+       color:'white',
+       backgroundColor:'black'
+   });
+});
+
+$('p.p1').mouseover(function () {
+   $(this).css({
+       color:'#ccc'
+   });
+});
+
+$('p:first').click(function () {
+   alert('hello,world')
+});
+$('ul li:nth-child(1)').css({
+    color:'red'
+});
+
+</script>
+</body>
+</html>

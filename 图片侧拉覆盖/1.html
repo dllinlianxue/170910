@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .out {
+            position: relative;
+            width: 50%;
+        }
+        .image {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+        .overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right:0;
+            transition: .5s ease;
+            background-color:#33b5e5;
+            overflow: hidden;
+            width: 0;
+            height: 100%;
+        }
+        .out:hover .overlay {
+            width: 100%;
+        }
+        .text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            color: white;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+    </style>
+</head>
+<body>
+<div class="out">
+    <img src="../.idea/image/1.png/人物背景图.jpg" alt="" class="image">
+    <div class="overlay">
+        <div class="text">hello work</div>
+    </div>
+</div>
+</body>
+</html>

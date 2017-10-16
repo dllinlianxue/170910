@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        /* 将html和body元素的高和宽设置和浏览器窗口一样大小 */
+        html, body {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+        }
+    </style>
+
+    <!--<style>-->
+        <!--div {-->
+            <!--border: 1px solid red;-->
+            <!--width: 100px;-->
+            <!--height: 100px;-->
+        <!--}-->
+    <!--</style>-->
+</head>
+<body>
+
+<!--<div class="out">-->
+
+    <!--<div class="in">-->
+
+    <!--</div>-->
+
+    <!--&lt;!&ndash;<div class="in2">&ndash;&gt;-->
+        <!--&lt;!&ndash;&ndash;&gt;-->
+    <!--&lt;!&ndash;</div>&ndash;&gt;-->
+
+<!--</div>-->
+
+
+<!--<script>-->
+
+    <!--var ele = document.getElementsByClassName('out')[0];-->
+
+    <!--var new_ele = document.createElement('div');-->
+    <!--new_ele.innerHTML = "hello, world";-->
+    <!--new_ele.style.border = "1px solid blue";-->
+
+    <!--ele.appendChild(new_ele);-->
+
+<!--</script>-->
+
+<script>
+    // 计时器1: 每隔1000毫秒, 生成一个div
+    // div设置包括宽高, 里面的字母, div的位置
+    setInterval(function () {
+        createLetter(); // 调用函数
+    }, 1000);
+    function createLetter() {
+        // 创建一个新的 div 元素
+        var letter_div = document.createElement('div');
+        // 新的div元素属性赋值
+        letter_div.style.width = 50 + 'px'; // 宽
+        letter_div.style.height = 50 + 'px'; //高
+        letter_div.style.fontSize = 50 + 'px';
+        // 随机数[65 - 90] , 对应的是大写A ~ Z
+        var num = Math.floor(Math.random() * (91 - 65)) + 65;
+        // 将数字转化为对应的字母字符
+        var letter = String.fromCharCode(num);
+        // 将字母添加到div元素中
+        letter_div.innerHTML = letter;
+        // div 元素定位
+        letter_div.style.position = 'absolute'; // 绝对定位
+        letter_div.style.top = -5 + 'px'; // 元素距上面的距离
+        var left_num = Math.floor(Math.random() * document.body.clientWidth); // 获取一个 0~浏览器宽度 的随机值
+        letter_div.style.left = left_num + 'px'; // 设置元素距浏览器窗口左边的距离
+        // 将新的div元素添加到body元素中.(使其可见)
+        document.body.appendChild(letter_div);
+    }
+    // 计时器2: 每隔100毫秒, 页面上的所有div向下移动15px
+    setInterval(function () {
+        move(); // 调用函数
+    }, 100);
+    function move() {
+        // 获取所有div元素
+        var arr_div = document.getElementsByTagName('div'); // 注意 arr_div是个数组, 里面包含多个div元素对象.
+        // 遍历这些div元素, 每个div元素的top值+15px
+        for (var i = 0; i < arr_div.length; i++) {
+            // 获取一个div
+            var letter_div = arr_div[i];
+            // 更改定位属性值
+            letter_div.style.top = letter_div.offsetTop + 15 + 'px';
+            // 当div超出屏幕下边时, 从html页面中删除掉
+            if (letter_div.offsetTop > document.body.clientHeight) {
+                document.body.removeChild(letter_div);
+            }
+        }
+    }
+    // 键盘按下事件, (onkeydown是键盘按下事件)
+    document.onkeydown = function (key) {
+        // 获取点击哪个按键.
+        // 当按下键盘时, 计算机识别的是ASCII值, 所以需要将ASCII转换为字母字符
+        var letter_key = String.fromCharCode(key.keyCode); // 转换成字母字符
+        // 遍历当前页面上的所有div, 找到和按键字母匹配的div, 如果匹配上, div删除.
+        var arr_div = document.getElementsByTagName('div');
+        for (var i = 0; i < arr_div.length; i++) {
+            var div = arr_div[i];
+            if (div.innerHTML === letter_key) {
+                document.body.removeChild(div);
+                break; // 退出循环. 当有一个div和按下的键匹配之后, 不用遍历其他的div元素了, 所以退出遍历.
+            }
+        }
+    };
+</script>
+
+
+</body>
+</html>

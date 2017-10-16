@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="shortcut icon" href="游戏.png" type="image/x-ico">
+    <script src="jquery-3.2.1.js"></script>
+</head>
+<body>
+<p id="test1">你好</p>
+<p id="test2">hello</p>
+
+<button id="btn1">点击</button>
+<button id="btn2">提交</button>
+
+
+
+
+
+<script>
+    $(document).ready(function () {
+
+//        //用函数text() html() val()获取内容
+//        //用函数attr()获取属性
+//        $('#btn1').click(function () {
+//            alert('text:'+$('#test').text());
+//            //弹出的内容为p标签里的内容
+//        });
+//    }),
+//       $('#btn2').click(function () {
+//          alert('html:'+ $('#test').html());
+//          //弹出的内容为p标签里的包含里面的标签
+//       });
+//
+//       $('#btn3').click(function () {
+//          alert('value:'+$('#test').val());
+//          //弹出的内容是属性里的内容
+//       });
+//
+//
+//       $('#btn4').click(function () {
+//          alert($('#on').attr('href'));
+//       });
+//
+//       //用函数text() html() val()设置内容
+//       $('#btn5').click(function () {
+//          $('#set1').text('hello,word')
+//       });
+//
+//       $('#btn6').click(function () {
+////           $(this).css({
+////              backgroundColor:'yellow'
+////           });
+//          $('#set2').html('hello,word');
+////           $(this).css({
+////               backgroundColor:'red'
+////           });
+//       });
+//
+//
+//       $('#btn7').click(function () {
+//          $('#set3').val('hello,word')
+//       });
+
+        //回调函数
+        $('#btn1').click(function () {
+            $('#test1').text(function (i, origText) {
+                return 'oldext:你好' + origText + 'newtext:秋天 (index:" + i + ")'
+            });
+        });
+    });
+
+
+
+
+
+
+      //设置属性
+
+    //添加html新的内容
+</script>
+</body>
+</html>

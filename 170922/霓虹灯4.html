@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .con {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+        }
+        .red {
+            width: 400px;
+            height: 400px;
+            background-color: red;
+        }
+        .blue {
+            width: 300px;
+            height: 300px;
+            background-color: blue;
+        }
+        .green {
+            width: 200px;
+            height: 200px;
+            background-color: green;
+
+        }
+        .yellow {
+            width: 100px;
+            height: 100px;
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+<div class="red con">
+    <div class="blue con">
+        <div class="green con">
+            <div class="yellow con"></div>
+        </div>
+    </div>
+</div>
+<script>
+    var ele_arr = document.getElementsByClassName('con');
+    setInterval(change,400);
+    function change() {
+        var ele_first_back = getComputedStyle(ele_arr[0],null).backgroundColor;
+        for (var i = 0; i < ele_arr.length-1; i++) {
+            ele_arr[i].style.backgroundColor = getComputedStyle(ele_arr[i+1],null).backgroundColor;
+        }
+            ele_arr[ele_arr.length-1].style.backgroundColor = ele_first_back;
+    }
+</script>
+</body>
+</html>

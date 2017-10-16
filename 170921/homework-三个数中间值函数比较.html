@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function middle1(a,b) {
+        if (a>b){
+            return a;
+        }
+        else {
+            return b
+        }
+    }
+    function middle2(b,c) {
+        if (b>c) {
+            return b;
+        }
+        else {
+            return c;
+        }
+
+    }
+    function middle3(a,b,c) {
+        var num1 = middle1(a,b);
+        var num2 = middle2(b,c);
+        var num3 = middle3(a,b,c);
+        return num3
+    }
+    console.log(middle2(3,-3,4));
+</script>
+
+
+
+</body>
+</html>

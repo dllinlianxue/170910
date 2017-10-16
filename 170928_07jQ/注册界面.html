@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-3.2.1/jquery-3.2.1.js"></script>
+
+    <style>
+        body {
+            position: absolute;
+            text-align: center;
+            transform: translate(-50%,-50%);
+            top: 40%;
+            left: 50%;
+        }
+        .p1 {
+            font-size: 2px;
+            position: relative;
+            left: 14%;
+            color: grey;
+        }
+        .p2 {
+            font-size: 2px;
+            position: relative;
+            left: 7%;
+            color: grey;
+
+        }
+        .p3 {
+            font-size: 2px;
+            position: relative;
+            left: 6%;
+            color: grey;
+
+        }
+        .outer {
+            position: relative;
+            width: 300px;
+            height: 40px;
+            background-color: #666666;
+        }
+        .inner {
+            position: relative;
+            width: 40px;
+            height: 40px;
+            background-color: #33b5e5;
+        }
+        #test1 {
+            width: 100px;
+            height: 40px;
+        }
+        #test2 {
+            width: 200px;
+            height: 40px;
+        }
+
+        #test3 {
+            width: 200px;
+            height: 40px;
+        }
+        #select1 {
+            width: 100px;
+            height: 40px;
+        }
+        #btn {
+            width: 100px;
+            height: 40px;
+            background-color: green;
+            color: white;
+        }
+    </style>
+    <link rel="stylesheet" href="../170926/swiper/css/swiper.min.css">
+</head>
+<body>
+<div>
+        <label>邮件地址</label>
+        <input type="text" id="test1" value=""><span>@</span>
+
+        <select name="province" id="select1">
+        <option value="请选择你的邮箱地址">请选择你的邮箱地址</option>
+        <option value="1">126.com</option>
+        <option value="2">163.com</option>
+        <option value="3">yeah.net</option>
+        </select>
+
+        <p class="p1">6~18个字符，可使用字母、数字、下划线，需以字母开头</p>
+
+    <label>密码</label>
+    <input type="password" id="test2" value="密码强度">
+    <p class="p2">6~16个字符，区分大小写</p>
+
+    <label>确认密码</label>
+    <input type="password" id="test3" value="">
+    <p class="p3">请再次填写密码</p>
+
+        <div class="outer">
+            <div class="inner"></div>
+        </div>
+    <br>
+    <button id="btn">注册提交</button>
+
+</div>
+
+<script>
+$(document).ready(function () {
+        $('p').mouseover(function () {
+            $('p').css({
+                color: 'black'
+            });
+        });
+
+        $('#test1').keydown(function () {
+            $('.p1').text('恭喜,该邮箱地址可以注册');
+        });
+        $('#test2').keydown(function () {
+            $('.p2').text('密码强度');
+        });
+
+        $('#test3').keydown(function () {
+            $('.p3').html('<img src="image/小对号.png">')
+        });
+
+        var a = $('.outer').offset().left;
+        var max = $('.outer').width()-$('.inner').width();
+        $('.inner').mousedown(function () {
+           var litter_dis = window.event.x - a;
+           $(document).on('mousemove',function () {
+              var newx = window.event.x;
+              var newleft = newx-a-litter_dis;
+              if (newleft < 0 ) {
+                  newleft = 0;
+              }
+              if (newleft > 0 ) {
+                  newleft = max;
+              }
+              if (('.inner').position().left === max) {
+                  $('.outer').css({
+                      backgroundColor:'green'
+                  });
+                   $(document).off('mousemove')
+               }
+               $('.inner').css({
+                   left:newleft +'px'
+               });
+    $(document).mouseup(function () {
+        if ($('.inner').position().left < max) {
+            $('.inner').animate({left:'0'});
+        }
+        $(document).off('mousemove');
+    });
+           });
+        });
+    });
+</script>
+
+</body>
+
+</html>

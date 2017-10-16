@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="layui/css/layui.css/">
+    <script src="layui/layui.all.js"></script>
+    <script src="dialog.js"></script>
+</head>
+<body>
+<button id="btn">点我试一下</button>
+<script>
+    var button = document.getElementById('btn');
+    button.onclick = function () {
+//        layer.open({
+//            icon:1,
+//            tiltle:'错误提示',
+//            content:'你的密码不正确',
+//            btn:['是','否'],
+//            yes:function () {
+//                window.location.href = "http://www.baidu.com"
+//            },
+//            btn2:function () {
+//                window.location.href = "http://lol.qq.com"
+//            }
+//        });
+        dialog.success('登录成功',"http://www.baidu.com");
+    };
+</script>
+</body>
+</html>

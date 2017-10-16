@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #in {
+            border: 1px solid black;
+            width: 150px;
+            height: 70px;
+            line-height: 70px;
+            text-align: center;
+        }
+    </style>
+
+</head>
+<body>
+<div id="in">3  4  2  9 </div>
+<button onclick="change()">点击</button>
+<script>
+    var changeElement = document.getElementById('in');
+    function change() {
+        changeElement.innerHTML = parseInt(Math.random() *(1000-100+1)+100);
+//        return num;
+//        setInterval(100,1000)
+    }
+
+</script>
+
+
+
+</body>
+</html>
