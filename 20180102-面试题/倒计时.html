@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+    <div class="time">
+    <script type="text/javascript">
+        window.onload = function(){
+            var i = 10;
+            var timer = setInterval(function(){
+                if(i== -1){
+                    clearInterval(timer);
+                }else{
+                    document.body.innerHTML = i;
+                    --i;
+                }
+            },1000);
+
+        }
+    </script>
+    </div>
+</head>
+<body>
+
+</body>
+</html>

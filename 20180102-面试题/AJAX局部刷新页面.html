@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-3.2.1/jquery-3.2.1.min.js"></script>
+</head>
+<body>
+<div id="mainContent">
+    <h1>Ajax局部刷新页面</h1>
+    <button type="button" onclick="ajax()">点击</button>
+</div>
+
+<script>
+    function ajax() {
+        var url = "";
+        var data = {
+            h1:'h1'
+        };
+        $.ajax({
+            type:"get",
+            async:false,
+            url:url,
+            data:data,
+            timeout:10,
+            success:function (dates) {
+                // $('#mainContent').html(dates);
+                alert('刷新成功');
+            },
+            error:function () {
+                alert('刷新失败');
+            }
+        });
+    }
+
+
+</script>
+
+</body>
+</html>

@@ -2,157 +2,270 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a32fc988-fd99-4f14-a7bd-990cb504bd38" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/image/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/image/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/image/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/image/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/bird.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/动漫.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/动漫2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/动漫3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/动漫4.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/小对号.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/星号.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/image/红包.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170918/simply1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170919/simpay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170919/simply.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170919/simply2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170919/制作.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170919/导航条.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170919/课后练习.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/jquery-3.2.1/jquery-3.2.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/jquery-3.2.1/jquery-3.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/jquery-3.2.1/jquery插件库.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/jquery-3.2.1/www.jq22.com.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/console.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/homeword-remove.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/homeword-setTimeout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/homework-alets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/homework-progress bar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/progress.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170920/登陆页面.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/jquery-3.2.1/jquery-3.2.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/jquery-3.2.1/jquery-3.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/jquery-3.2.1/jquery插件库.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/jquery-3.2.1/www.jq22.com.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/打字.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/课堂作业.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/课堂练习.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/随机打字.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/随机打字游戏.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/霓虹灯.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/霓虹灯2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/霓虹灯3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170922/霓虹灯4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/jquery-3.2.1/jquery-3.2.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/jquery-3.2.1/jquery-3.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/jquery-3.2.1/jquery插件库.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/jquery-3.2.1/www.jq22.com.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/createLetter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/offsettop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/onkeydown..html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/onkeydown.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/the to do list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/创建div createElement.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/打字游戏.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170923/打字练习.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170925/1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170925/to du list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/EventHandle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/event.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/jquery-3.2.1/jquery-3.2.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/jquery-3.2.1/jquery-3.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/jquery-3.2.1/jquery插件库.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/jquery-3.2.1/www.jq22.com.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/js html.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/js222.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/css/swiper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/css/swiper.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/maps/swiper.jquery.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/maps/swiper.jquery.umd.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/maps/swiper.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/swiper.jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/swiper.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/swiper.jquery.umd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/swiper.jquery.umd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/swiper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/swiper/js/swiper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/点击事件.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170926/轮播图.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jQuery_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jQuery_02选择器.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jQuery_03_事件.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jQuery_get_set.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jQuery_动画_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jquery-3.2.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/jquery-3.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/js-06.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/事件冒泡和事件捕获.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170927/省市联动jQ.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/jQuery_01_操作.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/swiper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/注册界面.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170928_07jQ/滑动效果.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index..html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/1.jpg" afterPath="$PROJECT_DIR$/170926/image/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/2.jpg" afterPath="$PROJECT_DIR$/170926/image/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/3.jpg" afterPath="$PROJECT_DIR$/170926/image/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/4.jpg" afterPath="$PROJECT_DIR$/170926/image/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/bird.jpg" afterPath="$PROJECT_DIR$/170926/image/bird.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/birds1.jpg" afterPath="$PROJECT_DIR$/170926/image/birds1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/birds2.jpg" afterPath="$PROJECT_DIR$/170926/image/birds2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/birds3.jpg" afterPath="$PROJECT_DIR$/170926/image/birds3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/动漫.jpg" afterPath="$PROJECT_DIR$/170926/image/动漫.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/动漫2.jpg" afterPath="$PROJECT_DIR$/170926/image/动漫2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/动漫3.jpg" afterPath="$PROJECT_DIR$/170926/image/动漫3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/动漫4.jpeg" afterPath="$PROJECT_DIR$/170926/image/动漫4.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/小对号.png" afterPath="$PROJECT_DIR$/170926/image/小对号.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/星号.png" afterPath="$PROJECT_DIR$/170926/image/星号.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/image/红包.jpg" afterPath="$PROJECT_DIR$/170926/image/红包.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/image/bird.jpg" afterPath="$PROJECT_DIR$/170928_07jQ/image/bird.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/image/birds1.jpg" afterPath="$PROJECT_DIR$/170928_07jQ/image/birds1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/image/birds2.jpg" afterPath="$PROJECT_DIR$/170928_07jQ/image/birds2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/image/birds3.jpg" afterPath="$PROJECT_DIR$/170928_07jQ/image/birds3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/image/动漫.jpg" afterPath="$PROJECT_DIR$/170928_07jQ/image/动漫.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/image/动漫2.jpg" afterPath="$PROJECT_DIR$/170928_07jQ/image/动漫2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/image/动漫3.jpg" afterPath="$PROJECT_DIR$/170928_07jQ/image/动漫3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/image/动漫4.jpeg" afterPath="$PROJECT_DIR$/170928_07jQ/image/动漫4.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/image/小对号.png" afterPath="$PROJECT_DIR$/170928_07jQ/image/小对号.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/image/星号.png" afterPath="$PROJECT_DIR$/170928_07jQ/image/星号.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/image/红包.jpg" afterPath="$PROJECT_DIR$/170928_07jQ/image/红包.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/游戏.png" afterPath="$PROJECT_DIR$/游戏.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/170910.iml" afterPath="$PROJECT_DIR$/.idea/170910.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170912.htmk css/box-size.html" afterPath="$PROJECT_DIR$/170912.htmk css/box-size.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170912.htmk css/floer1.html" afterPath="$PROJECT_DIR$/170912.htmk css/floer1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170912.htmk css/line-heigh.html" afterPath="$PROJECT_DIR$/170912.htmk css/line-heigh.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170912/float.html" afterPath="$PROJECT_DIR$/170912/float.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170912/float1.html" afterPath="$PROJECT_DIR$/170912/float1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170912/float2.html" afterPath="$PROJECT_DIR$/170912/float2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170912/float3.html" afterPath="$PROJECT_DIR$/170912/float3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170912/float5.html" afterPath="$PROJECT_DIR$/170912/float5.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170913homework/1.2.3..html" afterPath="$PROJECT_DIR$/170913homework/1.2.3..html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170913homework/css垂直水平方向居中.html" afterPath="$PROJECT_DIR$/170913homework/css垂直水平方向居中.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170913homework/demo定位.html" afterPath="$PROJECT_DIR$/170913homework/demo定位.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170913homework/line-heigh.html" afterPath="$PROJECT_DIR$/170913homework/line-heigh.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170913homework/限时代码.html" afterPath="$PROJECT_DIR$/170913homework/限时代码.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170913homework/限时代码2.html" afterPath="$PROJECT_DIR$/170913homework/限时代码2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170914homework/homework2.html" afterPath="$PROJECT_DIR$/170914homework/homework2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170914限时代码overlay/overlay.html" afterPath="$PROJECT_DIR$/170914限时代码overlay/overlay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170914限时代码overlay/overlay1.html" afterPath="$PROJECT_DIR$/170914限时代码overlay/overlay1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170914限时代码overlay/overlay2..html" afterPath="$PROJECT_DIR$/170914限时代码overlay/overlay2..html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170914限时代码overlay/overlay3..html" afterPath="$PROJECT_DIR$/170914限时代码overlay/overlay3..html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170914限时代码overlay/overlay4.html" afterPath="$PROJECT_DIR$/170914限时代码overlay/overlay4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170914限时代码overlay/overlay5.html" afterPath="$PROJECT_DIR$/170914限时代码overlay/overlay5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170915课后练习/float_07.html" afterPath="$PROJECT_DIR$/170915课后练习/float_07.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170915课后练习/代码练习.html" afterPath="$PROJECT_DIR$/170915课后练习/代码练习.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170915课后练习/拷贝之前看效果.html" afterPath="$PROJECT_DIR$/170915课后练习/拷贝之前看效果.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170915课堂练习/float..html" afterPath="$PROJECT_DIR$/170915课堂练习/float..html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170915课堂练习/限时代码.html" afterPath="$PROJECT_DIR$/170915课堂练习/限时代码.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170916/btn.html" afterPath="$PROJECT_DIR$/170916/btn.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170916/heroimage.html" afterPath="$PROJECT_DIR$/170916/heroimage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/js/npm.js" afterPath="$PROJECT_DIR$/170918/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/col.html" afterPath="$PROJECT_DIR$/170918/col.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/company.html" afterPath="$PROJECT_DIR$/170918/company.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/css/col.css" afterPath="$PROJECT_DIR$/170918/css/col.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/css/company.css" afterPath="$PROJECT_DIR$/170918/css/company.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/css/simply.css" afterPath="$PROJECT_DIR$/170918/css/simply.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/simply.html" afterPath="$PROJECT_DIR$/170918/simply.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170918/simply1.html" afterPath="$PROJECT_DIR$/170918/simply1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/jquery.js" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/js/npm.js" afterPath="$PROJECT_DIR$/170919/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/css/课堂练习.css" afterPath="$PROJECT_DIR$/170919/css/课堂练习.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/simpay.html" afterPath="$PROJECT_DIR$/170919/simpay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/simply.html" afterPath="$PROJECT_DIR$/170919/simply.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/simply2.html" afterPath="$PROJECT_DIR$/170919/simply2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/制作.html" afterPath="$PROJECT_DIR$/170919/制作.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/导航条.html" afterPath="$PROJECT_DIR$/170919/导航条.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/课后练习.html" afterPath="$PROJECT_DIR$/170919/课后练习.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170919/课堂练习.html" afterPath="$PROJECT_DIR$/170919/课堂练习.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/jquery.js" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/js/npm.js" afterPath="$PROJECT_DIR$/170920/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/console.html" afterPath="$PROJECT_DIR$/170920/console.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/homeword-remove.html" afterPath="$PROJECT_DIR$/170920/homeword-remove.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/homeword-setTimeout.html" afterPath="$PROJECT_DIR$/170920/homeword-setTimeout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/homework-alets.html" afterPath="$PROJECT_DIR$/170920/homework-alets.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/homework-progress bar.html" afterPath="$PROJECT_DIR$/170920/homework-progress bar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/progress.html" afterPath="$PROJECT_DIR$/170920/progress.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170920/登陆页面.html" afterPath="$PROJECT_DIR$/170920/登陆页面.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/homework-三个数中间值函数比较.html" afterPath="$PROJECT_DIR$/170921/homework-三个数中间值函数比较.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/homework-验证码.html" afterPath="$PROJECT_DIR$/170921/homework-验证码.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/js02.html" afterPath="$PROJECT_DIR$/170921/js02.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/review.html" afterPath="$PROJECT_DIR$/170921/review.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/写字效应homework.html" afterPath="$PROJECT_DIR$/170921/写字效应homework.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/函数.html" afterPath="$PROJECT_DIR$/170921/函数.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/函数练习题.html" afterPath="$PROJECT_DIR$/170921/函数练习题.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/动画图标.html" afterPath="$PROJECT_DIR$/170921/动画图标.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/数据类型.html" afterPath="$PROJECT_DIR$/170921/数据类型.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/显示,隐藏.html" afterPath="$PROJECT_DIR$/170921/显示,隐藏.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/添加类.html" afterPath="$PROJECT_DIR$/170921/添加类.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/移动元素.html" afterPath="$PROJECT_DIR$/170921/移动元素.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/随机变换.html" afterPath="$PROJECT_DIR$/170921/随机变换.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170921/随机颜色.html" afterPath="$PROJECT_DIR$/170921/随机颜色.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/jquery.js" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/js/npm.js" afterPath="$PROJECT_DIR$/170922/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/打字.html" afterPath="$PROJECT_DIR$/170922/打字.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/课堂作业.html" afterPath="$PROJECT_DIR$/170922/课堂作业.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/课堂练习.html" afterPath="$PROJECT_DIR$/170922/课堂练习.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/随机打字.html" afterPath="$PROJECT_DIR$/170922/随机打字.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/随机打字游戏.html" afterPath="$PROJECT_DIR$/170922/随机打字游戏.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/霓虹灯.html" afterPath="$PROJECT_DIR$/170922/霓虹灯.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/霓虹灯2.html" afterPath="$PROJECT_DIR$/170922/霓虹灯2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/霓虹灯3.html" afterPath="$PROJECT_DIR$/170922/霓虹灯3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170922/霓虹灯4.html" afterPath="$PROJECT_DIR$/170922/霓虹灯4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/jquery.js" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/js/npm.js" afterPath="$PROJECT_DIR$/170923/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/createLetter.html" afterPath="$PROJECT_DIR$/170923/createLetter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/offsettop.html" afterPath="$PROJECT_DIR$/170923/offsettop.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/onkeydown..html" afterPath="$PROJECT_DIR$/170923/onkeydown..html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/onkeydown.html" afterPath="$PROJECT_DIR$/170923/onkeydown.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/the to do list.html" afterPath="$PROJECT_DIR$/170923/the to do list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/创建div createElement.html" afterPath="$PROJECT_DIR$/170923/创建div createElement.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/打字游戏.html" afterPath="$PROJECT_DIR$/170923/打字游戏.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170923/打字练习.html" afterPath="$PROJECT_DIR$/170923/打字练习.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170925/1.html" afterPath="$PROJECT_DIR$/170925/1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170925/to du list.html" afterPath="$PROJECT_DIR$/170925/to du list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/EventHandle.js" afterPath="$PROJECT_DIR$/170926/EventHandle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/event.html" afterPath="$PROJECT_DIR$/170926/event.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/js html.html" afterPath="$PROJECT_DIR$/170926/js html.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/js.js" afterPath="$PROJECT_DIR$/170926/js.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/js222.html" afterPath="$PROJECT_DIR$/170926/js222.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/点击事件.html" afterPath="$PROJECT_DIR$/170926/点击事件.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170926/轮播图.html" afterPath="$PROJECT_DIR$/170926/轮播图.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170927/common.js" afterPath="$PROJECT_DIR$/170927/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170927/index.html" afterPath="$PROJECT_DIR$/170927/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170927/jQuery_01.html" afterPath="$PROJECT_DIR$/170927/jQuery_01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170927/jQuery_02选择器.html" afterPath="$PROJECT_DIR$/170927/jQuery_02选择器.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170927/jQuery_03_事件.html" afterPath="$PROJECT_DIR$/170927/jQuery_03_事件.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170927/jQuery_get_set.html" afterPath="$PROJECT_DIR$/170927/jQuery_get_set.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170927/jQuery_动画_04.html" afterPath="$PROJECT_DIR$/170927/jQuery_动画_04.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170927/js-06.js" afterPath="$PROJECT_DIR$/170927/js-06.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170927/事件冒泡和事件捕获.html" afterPath="$PROJECT_DIR$/170927/事件冒泡和事件捕获.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170927/省市联动jQ.html" afterPath="$PROJECT_DIR$/170927/省市联动jQ.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/170929注册界面.html" afterPath="$PROJECT_DIR$/170928_07jQ/170929注册界面.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/dialog.js" afterPath="$PROJECT_DIR$/170928_07jQ/dialog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/jQuery_01_操作.html" afterPath="$PROJECT_DIR$/170928_07jQ/jQuery_01_操作.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/layui的使用.html" afterPath="$PROJECT_DIR$/170928_07jQ/layui的使用.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/swiper.html" afterPath="$PROJECT_DIR$/170928_07jQ/swiper.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/注册界面.html" afterPath="$PROJECT_DIR$/170928_07jQ/注册界面.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/注册界面2.html" afterPath="$PROJECT_DIR$/170928_07jQ/注册界面2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170928_07jQ/滑动效果.html" afterPath="$PROJECT_DIR$/170928_07jQ/滑动效果.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170930/dialog.js" afterPath="$PROJECT_DIR$/170930/dialog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170930/污染全局变量.html" afterPath="$PROJECT_DIR$/170930/污染全局变量.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W04D2(171010)/变量的作用域.php" afterPath="$PROJECT_DIR$/W04D2(171010)/变量的作用域.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W04D2(171010)/超级全局变量/request.html" afterPath="$PROJECT_DIR$/W04D2(171010)/超级全局变量/request.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W04D2(171010)/超级全局变量/response.php" afterPath="$PROJECT_DIR$/W04D2(171010)/超级全局变量/response.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W04D2(171010)/遍历数组.php" afterPath="$PROJECT_DIR$/W04D2(171010)/遍历数组.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W04D3(171011)/Ajax提交数据/function.php" afterPath="$PROJECT_DIR$/W04D3(171011)/Ajax提交数据/function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W04D3(171011)/Ajax提交数据/login.html" afterPath="$PROJECT_DIR$/W04D3(171011)/Ajax提交数据/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W04D3(171011)/Ajax提交数据/login.php" afterPath="$PROJECT_DIR$/W04D3(171011)/Ajax提交数据/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W04D3(171011)/foot.php" afterPath="$PROJECT_DIR$/W04D3(171011)/foot.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W04D3(171011)/head.php" afterPath="$PROJECT_DIR$/W04D3(171011)/head.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W04D3(171011)/homework/login.html" afterPath="$PROJECT_DIR$/W04D3(171011)/homework/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W04D3(171011)/homework/login.php" afterPath="$PROJECT_DIR$/W04D3(171011)/homework/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W04D3(171011)/login.php" afterPath="$PROJECT_DIR$/W04D3(171011)/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W04D3(171011)/练习/login.php" afterPath="$PROJECT_DIR$/W04D3(171011)/练习/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W05D1(171016)/README.md" afterPath="$PROJECT_DIR$/W05D1(171016)/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html.html" afterPath="$PROJECT_DIR$/html.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/Ajax提交数据/function.php" afterPath="$PROJECT_DIR$/w04D1(171009)/Ajax提交数据/function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/Ajax提交数据/login.html" afterPath="$PROJECT_DIR$/w04D1(171009)/Ajax提交数据/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/Ajax提交数据/login.php" afterPath="$PROJECT_DIR$/w04D1(171009)/Ajax提交数据/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/Ajax登陆数据/function.php" afterPath="$PROJECT_DIR$/w04D1(171009)/Ajax登陆数据/function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/Ajax登陆数据/login.html" afterPath="$PROJECT_DIR$/w04D1(171009)/Ajax登陆数据/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/Ajax登陆数据/login.php" afterPath="$PROJECT_DIR$/w04D1(171009)/Ajax登陆数据/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/Ajax限时代码/function.php" afterPath="$PROJECT_DIR$/w04D1(171009)/Ajax限时代码/function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/Ajax限时代码/login.html" afterPath="$PROJECT_DIR$/w04D1(171009)/Ajax限时代码/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/Ajax限时代码/login.php" afterPath="$PROJECT_DIR$/w04D1(171009)/Ajax限时代码/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/PHP变量.php" afterPath="$PROJECT_DIR$/w04D1(171009)/PHP变量.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/练习Ajax/function.php" afterPath="$PROJECT_DIR$/w04D1(171009)/练习Ajax/function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/练习Ajax/login.html" afterPath="$PROJECT_DIR$/w04D1(171009)/练习Ajax/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/练习Ajax/login.php" afterPath="$PROJECT_DIR$/w04D1(171009)/练习Ajax/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/表单提交/login.html" afterPath="$PROJECT_DIR$/w04D1(171009)/表单提交/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w04D1(171009)/表单提交/login.php" afterPath="$PROJECT_DIR$/w04D1(171009)/表单提交/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/图片侧拉覆盖/1.html" afterPath="$PROJECT_DIR$/图片侧拉覆盖/1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/图片侧拉覆盖/2.html" afterPath="$PROJECT_DIR$/图片侧拉覆盖/2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/图片侧拉覆盖/3.html" afterPath="$PROJECT_DIR$/图片侧拉覆盖/3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/图片侧拉覆盖/4.html" afterPath="$PROJECT_DIR$/图片侧拉覆盖/4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/图片侧拉覆盖/5.html" afterPath="$PROJECT_DIR$/图片侧拉覆盖/5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/无忧网才/css/container.css" afterPath="$PROJECT_DIR$/无忧网才/css/container.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/无忧网才/css/header.css" afterPath="$PROJECT_DIR$/无忧网才/css/header.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/无忧网才/css/main.css" afterPath="$PROJECT_DIR$/无忧网才/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/无忧网才/index.html" afterPath="$PROJECT_DIR$/无忧网才/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -163,28 +276,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index..html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index..html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -242,6 +334,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="170910" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="170910" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="170910" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="W04D3(171011)" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -307,6 +413,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -341,31 +453,34 @@
       <option name="presentableId" value="Default" />
       <updated>1506650370223</updated>
       <workItem from="1506650372638" duration="257000" />
+      <workItem from="1508229756159" duration="6000" />
+      <workItem from="1508230865685" duration="65000" />
+      <workItem from="1513842473002" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="257000" />
+    <option name="totallyTimeSpent" value="349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="23" width="1405" height="877" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24944974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2604549" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24944974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -380,21 +495,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index..html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/index..html" />
   </component>
 </project>
